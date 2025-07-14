@@ -12,6 +12,6 @@ Instrucciones:
 
 6.- ejecutar comando "pip install -r requirements.txt"
 
-7.- ejecutar comando "python -m uvicorn app.main:app --reload --port 8002"
+7.- ejecutar comando "python -m uvicorn app.main:app --reload --port 8000"
 
 Excepciones: Verificar conexiones y "dsn" dentro de "database.py" para asegurar una conexión correcta con SQL
